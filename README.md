@@ -1,5 +1,7 @@
 # Make a website!
 
+Class assignment. View live here: http://sallykingston.me/First_Website/.
+
 ## Description
 Our very own website!  You've likely spent enough time navigating and visiting other websites, now it is time to craft one of your own.
 
